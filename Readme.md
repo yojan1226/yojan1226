@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yojan Sawdekar</h1>
+<h1 align="center">Hi 👋, I'm Yogeshwar Sawdekar</h1>
 <h3 align="center">🚀 DevOps Engineer | AWS | Docker | Terraform | Jenkins | CI/CD Automation | Cloud Enthusiast</h3>
 
 ---
@@ -41,7 +41,7 @@
 
 ## 🎓 Education
 
-🎓 **B.E. Information Technology (2021–2025)**  
+🎓 **B.E. Information Technology (2021–2025)**- 8.1 CGPA
 *Sandip Institute of Technology and Research Center, Nashik*  
 
 📖 **HSC – 72%**  
@@ -63,6 +63,8 @@
   </a>
 </p>
 
+📞 **Contact No:** +91 XXXXXXXXXX  
+📧 **Email:** [yojansawdekar@gmail.com](mailto:yojansawdekar@gmail.com)
 ---
 
 ## ⚡ GitHub Stats
