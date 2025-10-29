@@ -63,8 +63,8 @@
   </a>
 </p>
 
-📞 **Contact No:** +91 XXXXXXXXXX  
-📧 **Email:** [yojansawdekar@gmail.com](mailto:yojansawdekar@gmail.com)
+📞 **Contact No:** +91 8720802123
+📧 **Email:** [yojansawdekar127@gmail.com](mailto:yojansawdekar127@gmail.com)
 ---
 
 ## ⚡ GitHub Stats
