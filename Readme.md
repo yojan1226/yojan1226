@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 💡 Passionate about automating infrastructure, streamlining CI/CD pipelines, and deploying scalable cloud-based applications.  
 🔧 Skilled in **AWS, Docker, Terraform, Jenkins, Kubernetes, Linux, and CI/CD pipelines**.  
-🌱 Currently learning **Kubernetes** and **advanced cloud automation**.  
+🌱 Currently learning **advanced cloud automation**.  
 ⚙️ Goal: To become a proficient **DevOps Engineer** focusing on automation & scalability.  
 
 ---
@@ -19,7 +19,7 @@
 | 🐳 **Containerization** | Docker, Docker Compose |
 | ⚙️ **Infrastructure as Code (IaC)** | Terraform |
 | 🔁 **CI/CD Tools** | Jenkins, GitHub Actions |
-| 🧩 **Orchestration** | Kubernetes (Basics) |
+| 🧩 **Orchestration** | Kubernetes |
 | 💻 **OS & Scripting** | Linux, Bash, Shell Scripting |
 | 🧰 **Version Control** | Git, GitHub |
 
@@ -58,7 +58,7 @@
   <a href="https://github.com/yojan1226" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yogeshwar-sawdekar" target="_blank">
+  <a href="https://www.linkedin.com/in/yogeshwar-sawdekar-848929251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
