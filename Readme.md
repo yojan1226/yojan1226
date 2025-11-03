@@ -15,13 +15,16 @@
 
 | Category | Tools |
 |-----------|-------|
+| 💻 **Programming Languages** | Python, HTML, CSS |
 | ☁️ **Cloud Platforms** | AWS (EC2, S3, IAM, VPC, Load Balancer) |
 | 🐳 **Containerization** | Docker, Docker Compose |
 | ⚙️ **Infrastructure as Code (IaC)** | Terraform |
+| ⚙️ **Configuration Management** | Ansible |
 | 🔁 **CI/CD Tools** | Jenkins, GitHub Actions |
 | 🧩 **Orchestration** | Kubernetes |
 | 💻 **OS & Scripting** | Linux, Bash, Shell Scripting |
 | 🧰 **Version Control** | Git, GitHub |
+| 📊 **Monitoring & Logging** | Prometheus, Grafana |
 
 ---
 
